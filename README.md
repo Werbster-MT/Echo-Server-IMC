@@ -1,3 +1,3 @@
 # Echo-Server-IMC
 
-Echo server desenvolvido utilizando Sockets que provê uma aplicação para cálculo do IMC de um usuário.
+Echo server desenvolvido em python, utilizando Sockets, que provê uma aplicação para cálculo do IMC de um usuário.
